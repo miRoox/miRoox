@@ -6,7 +6,7 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=miRoox)](https://github.com/miRoox/)
 
-I'm a graduate student of Harbin Institute of Technology, and my main research direction is computational imaging and optical transformation.
+I'm a graduate student of Harbin Institute of Technology, and my main research direction is computational imaging and optical transform.
 
 #### Links 📫
 
